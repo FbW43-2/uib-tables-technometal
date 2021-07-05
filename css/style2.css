@@ -1,0 +1,9 @@
+#exercise {
+  width: 480px;
+  height: 280px;
+  border-collapse: collapse;
+}
+
+th {
+  border: solid 2px black;
+}

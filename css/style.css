@@ -1,0 +1,19 @@
+#table-5-biggest-cities-in-spain {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+h1 {
+  text-align: center;
+}
+
+thead {
+  background-color: red;
+  color: yellow;
+}
+
+th,
+td {
+  border: solid 2px black;
+  text-align: center;
+}
